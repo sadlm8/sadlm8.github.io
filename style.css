@@ -1,7 +1,13 @@
 p {
   font-family: Georgia;
+  color: rgb(24,74,69);
 }
 
 h1{
   text-align: center;
+  color: rgb(155,111,97);
+}
+
+body{
+  color: rgb(181,186,182);
 }
