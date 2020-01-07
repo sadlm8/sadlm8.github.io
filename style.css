@@ -1,13 +1,14 @@
 p {
   font-family: Georgia;
-  color: rgb(24,74,69);
+  /*color: rgb(24,74,69);*/
 }
 
 h1{
   text-align: center;
+  font-family: Georgia;
   color: rgb(255,111,97);
 }
 
 body{
-  background: rgb(181,186,182);
+  /*background: rgb(181,186,182);*/
 }
