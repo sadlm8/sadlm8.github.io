@@ -1,4 +1,5 @@
 p {
+  text-align: center;
   font-family: Georgia;
   /*color: rgb(24,74,69);*/
 }
@@ -11,4 +12,7 @@ h1{
 
 body{
   /*background: rgb(181,186,182);*/
+}
+iframe{
+  align: center;
 }
