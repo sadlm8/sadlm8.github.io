@@ -14,6 +14,10 @@ body{
   /*background: rgb(181,186,182);*/
 }
 img{
-  align-item: center;
+  margin-left: auto;
+  margin-right: auto;
 }
-<iframe style="float:right">
+iframe{
+  margin-left:auto;
+  margin-right:auto;
+}
