@@ -19,4 +19,5 @@ img{
 }
 iframe{
   justify-content: center;
+  display:block;
 }
