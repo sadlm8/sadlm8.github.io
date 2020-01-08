@@ -13,10 +13,6 @@ h1{
 body{
   /*background: rgb(181,186,182);*/
 }
-img{
-  margin: 0 auto;
-  display: block;
-}
 iframe{
   margin: 0 auto;
   display: block;
