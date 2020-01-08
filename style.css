@@ -13,4 +13,7 @@ h1{
 body{
   /*background: rgb(181,186,182);*/
 }
+img{
+  align-item: center;
+}
 <iframe style="float:right">
