@@ -10,6 +10,13 @@ h1{
   color: rgb(255,111,97);
 }
 
+.center {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%
+}
+
 body{
   /*background: rgb(181,186,182);*/
 }
